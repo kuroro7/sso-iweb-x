@@ -54,6 +54,19 @@ With this you can basically create schedules for gift sendings based on filters 
 ![image](https://github.com/user-attachments/assets/bd437d1d-3bbd-4442-bc8d-e3621f425a24)
 ![image](https://github.com/user-attachments/assets/e6ac3ec9-d770-4a2a-9ad8-11cc8b8811d5)
 
+## Full discord integration
+
+![image](https://github.com/user-attachments/assets/6f66ee7f-c276-41e4-8cd5-f6eae4dd7722)
+![image](https://github.com/user-attachments/assets/c34299a1-9a26-4df1-b9fa-7252128c7bfb)
+![image](https://github.com/user-attachments/assets/5afe0332-d431-4ce5-bc77-9d4948c45fcf)
+![image](https://github.com/user-attachments/assets/3d87b6b8-4ed4-4337-84e6-ebecf80bf905)
+![image](https://github.com/user-attachments/assets/59635a48-067c-450e-81e7-f0080b82c5b9)
+
+
+
+
+
+
 
 
 
